@@ -9,4 +9,4 @@
 
 ## Introduction :rocket:
 
-This is the first project of the course CS311 Computer Organization and Design at SUSTech. The project is to build an agent that can play the game reversed reversi. The agent is implemented using Monte Carlo Tree Search (MCTS) algorithm.
+This is the first project of the course CS311 Artificial Intelligence(H) at SUSTech. The project is to build an agent that can play the game reversed reversi. The agent is implemented using Monte Carlo Tree Search (MCTS) algorithm.
